@@ -20,5 +20,4 @@ make
 ```
 
 ## Developed by:
-- Riti Kumari
--Email : ritikumariupadhyay24@gmail.com
+- Ritesh Mahato
